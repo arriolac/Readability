@@ -1,0 +1,15 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Author: Chris Arriola
+Date:   Dec. 7, 2010
+Description: This program provides a measure of readability -- how good a
+    reader needs to be in order to understand a passage of English text.
+    This is based on the article from http://www.readability.info/info.shtml
+    and from CIT591.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Running:
+
+- Compile the Readability.scala file by 'scala Readability.scala'
+- Run the program by using: 'scala Readability'
+- After selecting a file, the measures will be outputed.
+
