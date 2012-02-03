@@ -12,4 +12,3 @@ Running:
 - Compile the Readability.scala file by 'scala Readability.scala'
 - Run the program by using: 'scala Readability'
 - After selecting a file, the measures will be outputed.
-
